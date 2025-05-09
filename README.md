@@ -8,14 +8,14 @@ This project compares various **Parameter-Efficient Fine-Tuning (PEFT)** techniq
 
 These methods are evaluated on a binary classification task using the `RoBERTa-base` model from Hugging Face.
 
-## 🧠 Abstract
+## Abstract
 
 We investigate the trade-offs between accuracy, GPU memory usage, number of trainable parameters, and training time. Our results suggest:
 - **QLoRA** offers the best overall trade-off between accuracy and efficiency.
 - **Adapter Tuning** excels in low-memory environments.
 - **LoRA** strikes a balance for moderate setups.
 
-## 📊 Results
+## Results
 
 Performance comparison across techniques:
 
