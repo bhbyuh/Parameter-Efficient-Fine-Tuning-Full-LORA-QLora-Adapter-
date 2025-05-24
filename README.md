@@ -28,10 +28,10 @@ Performance comparison across techniques:
 
 ### 📈 Visualizations
 
-![Accuracy vs Method](Accuracy_Comparison.png)
+![Accuracy vs Method](images/Accuracy_Comparison.png)
 
-![GPU Memory Usage](GPU_Memory_usage_Comparison.png)
+![GPU Memory Usage](images/GPU_Memory_usage_Comparison.png)
 
-![Trainable Parameters](Number_of_Parametrs_Comparison.png)
+![Trainable Parameters](images/Number_of_Parametrs_Comparison.png)
 
-![Training Time](Training_Time_Comparison.png)
+![Training Time](images/Training_Time_Comparison.png)
